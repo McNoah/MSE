@@ -6,4 +6,4 @@ BachNL added
 Noah
 >>>>>>> 03ad069ec06cec41b78da9e15ee4efcce6f4be6d
 Hello, I am in the class
-+Noah
++Noah: edited line
